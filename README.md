@@ -31,7 +31,6 @@ What it had never had was an engine, a scoreboard, or artwork anyone was allowed
 | Rewards hand-wired into 24 hyperlinks | Shuffled from a seeded bag at game start. Zero teacher prep |
 | Scores kept on a whiteboard, by hand, mid-lesson | A live scoreboard, with the engine applying every outcome |
 | Your own questions meant editing the deck | Pick a built-in pack and a level, or import a saved list |
-| Borrowed commercial game artwork on every slide | Original characters, made for this game and owned outright |
 
 I read the deck's own hyperlinks to recover its real reward mix rather than guessing at one.
 It came out at 14 coin payouts to 10 mystery blocks, which is far more chaotic than I would
@@ -102,5 +101,4 @@ synthesised from oscillators at runtime, so the repository contains no audio fil
 ---
 
 Built by [Jacobus Barnard](https://github.com/JarFis-ai), a teacher and developer in Seoul.
-Also: [59 Seconds](https://jarfis-ai.github.io/), a live ESL speaking game with paying
-customers, and [Taco Trivia](https://jarfis-ai.github.io/taco-trivia/).
+Also: [59 Seconds](https://jarfis-ai.github.io/), a live ESL speaking game, and [Taco Trivia](https://jarfis-ai.github.io/taco-trivia/).
